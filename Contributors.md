@@ -1,4 +1,3 @@
-
 - [Trisha Khajuria](https://github.com/ohathena)
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
@@ -8715,3 +8714,4 @@ Kunal Khallar - Learning to contribute :)
 - [Angelina](https://github.com/angelina421)
 - [Adil-Khan-N](https://github.com/Adil-Khan-N)
 - [M R SAGAR](https://github.com/sagargowda0008)
+- [Divyanshu Baghel](https://github.com/GIT-GITteRR) - Just a new dev , first open src contri , Wanna do mroe
